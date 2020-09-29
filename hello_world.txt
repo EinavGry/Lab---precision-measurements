@@ -1,1 +1,2 @@
 this is not a smelly cat
+this is not a smelly dog.
